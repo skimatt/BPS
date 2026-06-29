@@ -1,0 +1,11 @@
+Link Dashboard :
+https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec
+
+
+1. Cek Koneksi (Debug)
+Klik tautan ini terlebih dahulu untuk melihat apakah script Anda sudah bisa menembus blokir (403) dari server SERASI:
+https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec?api=serasi_debug
+
+2. Cek Data Petugas (Jika Debug Berhasil)
+Jika link pertama di atas sudah sukses (tidak ada error 403), baru Anda tes link utama ini:
+https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec?api=petugas
