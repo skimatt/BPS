@@ -1,0 +1,12 @@
+Dasar contoh google script
+https://script.google.com/macros/s/AKfycbzWUZJp6IZ8bmIyJ8SHVk0z2ScQTnWnWdKZ2gZoTPi36FAWrEnLr6gsswJZu68PxwRGHA/exec
+
+
+Data per petugas (PPL)
+https://serasi.web.bps.go.id/spvse26/progress?kabkota=1110&view_type=grouped
+
+
+
+
+Dashboard per kecamatan
+https://docs.google.com/spreadsheets/d/1_tkrxzaZsS_X9MRa9k4okKiGlkN8RkSqEhD9vP9TWj4/edit?usp=sharing
