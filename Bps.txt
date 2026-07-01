@@ -9,3 +9,7 @@ https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfW
 2. Cek Data Petugas (Jika Debug Berhasil)
 Jika link pertama di atas sudah sukses (tidak ada error 403), baru Anda tes link utama ini:
 https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec?api=petugas
+
+
+https://script.google.com/macros/s/AKfycbzWUZJp6IZ8bmIyJ8SHVk0z2ScQTnWnWdKZ2gZoTPi36FAWrEnLr6gsswJZu68PxwRGHA/exec
+
