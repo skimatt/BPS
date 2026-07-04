@@ -1,20 +1,2 @@
 Link Dashboard :
-https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec
-
-
-1. Cek Koneksi (Debug)
-Klik tautan ini terlebih dahulu untuk melihat apakah script Anda sudah bisa menembus blokir (403) dari server SERASI:
-https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec?api=serasi_debug
-
-2. Cek Data Petugas (Jika Debug Berhasil)
-Jika link pertama di atas sudah sukses (tidak ada error 403), baru Anda tes link utama ini:
-https://script.google.com/macros/s/AKfycbwDKdIqb88RUgttrfR2rTv70YT_hzHgdCbmJdqfWpkeNQJ3lMUVO43UqaM6Y_yHDiM/exec?api=petugas
-
-
-https://script.google.com/macros/s/AKfycbzWUZJp6IZ8bmIyJ8SHVk0z2ScQTnWnWdKZ2gZoTPi36FAWrEnLr6gsswJZu68PxwRGHA/exec
-
-
-https://nerwana-aceh.web.bps.go.id/spvse26/progress
-
-
-
+https://script.google.com/macros/s/AKfycbwqCbFbTQRgu7APyhWsH0dwM2XdHrx35qdfHPJcih46f6BeYFdcpITrc6Z4XtUj29PSrQ/exec
